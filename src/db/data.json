@@ -1,0 +1,52 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "name": "Sneakers",
+      "images": [
+        "/images/shoe-1.svg",
+        "/images/shoe-2.svg"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Headphones",
+      "images": [
+        "/images/headphones-1.svg",
+        "/images/headphones-2.svg"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Watch",
+      "images": [
+        "/images/watch-1.svg",
+        "/images/watch-2.svg"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Backpack",
+      "images": [
+        "/images/backpack-1.svg",
+        "/images/backpack-2.svg"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Sunglasses",
+      "images": [
+        "/images/glasses-1.svg",
+        "/images/glasses-2.svg"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Camera",
+      "images": [
+        "/images/camera-1.svg",
+        "/images/camera-2.svg"
+      ]
+    }
+  ]
+}
